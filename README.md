@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello/Hola/안녕하세요👋
 
-<!--
-**xlprowo/xlprowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm xlprowo and I'm here to learn, colaborate and create 👍.
 
-Here are some ideas to get you started:
+My interests are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦾🤖🧠💻 Artificial Intelligence.
+- 🔢📊📉📈 Data Science.
+
+Currently learning
+- Machine Learning.
+- Python.
+
